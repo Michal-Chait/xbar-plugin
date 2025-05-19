@@ -2,7 +2,7 @@
 
 Get a dose of random wisdom right from your macOS menu bar with this lightweight xbar plugin. It fetches a new piece of advice from the Advice Slip API every time it refreshes — simple, clean, and useful.
 
-## 💡 What is xbar?
+### 💡 What is xbar?
 
 xbar is a macOS app that lets you display custom script output right in your menu bar. You can use it to show anything — from system stats and weather to inspirational quotes — using your favorite scripting language.
 
@@ -18,7 +18,7 @@ xbar is a macOS app that lets you display custom script output right in your men
 
 📢 Advice shown in ALL CAPS for dramatic effect!
 
-#### How to Use:
+### How to Use:
 
 1. Install xbar from xbarapp.com.
 2. Download this script and save it with an .rb extension (e.g. advice.1h.rb):
